@@ -1,9 +1,9 @@
 # Lucas Gulart
 CEO on Brainless.
 
-[![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Gulart-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gulartlucas/)](https://www.linkedin.com/in/gulartlucas/) 
-[![Gmail Badge](https://img.shields.io/badge/-olucasgulart@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olucasgulart@gmail.com)](mailto:olucasgulart@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?style=flat-square&labelColor=dd0606&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gulartlucas/)](https://www.linkedin.com/in/gulartlucas/) 
+[![Gmail Badge](https://img.shields.io/badge/-olucasgulart@gmail.com-dd0606?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olucasgulart@gmail.com)](mailto:olucasgulart@gmail.com)
 
 Studying Computer Science on URI Santiago.
 Passionate for technology since younger, i love fix problems and create new things. <br>
