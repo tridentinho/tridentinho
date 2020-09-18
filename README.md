@@ -5,7 +5,7 @@ CEO on Brainless.
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gulartlucas/)](https://www.linkedin.com/in/gulartlucas/) 
 [![Gmail Badge](https://img.shields.io/badge/-olucasgulart@gmail.com-dd0606?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olucasgulart@gmail.com)](mailto:olucasgulart@gmail.com)
 
-Studying Computer Science on URI Santiago.
+Studying Computer Science on URI Santiago. <br>
 Passionate for technology since younger, i love fix problems and create new things. <br>
 I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and i'm learning ReactJS (React Native too, for mobile), and more. 
 
