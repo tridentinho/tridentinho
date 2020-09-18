@@ -6,7 +6,7 @@ CEO on Brainless.
 [![Gmail Badge](https://img.shields.io/badge/-olucasgulart@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olucasgulart@gmail.com)](mailto:olucasgulart@gmail.com)
 
 Studying Computer Science on URI Santiago.
-Passionate for technology since younger, i love fix problems and create new things.
+Passionate for technology since younger, i love fix problems and create new things. <br>
 I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and learning ReactJS (React Native too, for mobile), and more. 
 
 <!--
