@@ -1,4 +1,4 @@
-#Lucas Gulart
+# Lucas Gulart
 CEO on Brainless.
 
 [![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
