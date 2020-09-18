@@ -7,7 +7,7 @@ CEO on Brainless.
 
 Studying Computer Science on URI Santiago.
 Passionate for technology since younger, i love fix problems and create new things. <br>
-I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and learning ReactJS (React Native too, for mobile), and more. 
+I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and i'm learning ReactJS (React Native too, for mobile), and more. 
 
 <!--
 **tridentinho/tridentinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
