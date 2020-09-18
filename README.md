@@ -1,5 +1,5 @@
 # Lucas Gulart
-👨🏻‍💻 CEO on Brainless 🧠
+🧠 *CEO on Brainless*.
 
 [![Instagram Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/tridentinho)](https://instagram.com/tridentinho)
 [![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
