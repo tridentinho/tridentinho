@@ -1,6 +1,7 @@
 # Lucas Gulart
+<!--
 🧠 *CEO on Brainless*.
-
+-->
 [![Instagram Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/tridentinho)](https://instagram.com/tridentinho)
 [![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gulartlucas/)](https://www.linkedin.com/in/gulartlucas/) 
