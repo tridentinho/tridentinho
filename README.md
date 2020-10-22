@@ -15,7 +15,6 @@
 ### **Skills** <br>
 🎯 I Know: <br>
 ![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,11 +31,13 @@
 ![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<!--
 💬 Other skills: <br>
 ![Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
 ![Excel Badge](	https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 ![PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge)
 ![Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
+-->
 <!--
 **tridentinho/tridentinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
