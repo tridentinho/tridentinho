@@ -6,10 +6,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gulartlucas/)](https://www.linkedin.com/in/gulartlucas/) 
 [![Facebook Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?&style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/tridentinho/)](https://facebook.com/tridentinho/)
-[![Gmail Badge](https://img.shields.io/badge/-olucasgulart@gmail.com-dd0606?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:olucasgulart@gmail.com)](mailto:olucasgulart@gmail.com)
 
 🚀 To view business infos visit my Linkedin, link above. <br>
-🎓 Studying Computer Science on URI Santiago. <br>
+🎓 Computer Scientist. <br>
 💞 Passionate for technology since younger, I love fix problems and create new things. <br>
 <!--I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and i'm learning ReactJS (React Native too, for mobile), and more. 
 ### **Skills** <br>
