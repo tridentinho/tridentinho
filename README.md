@@ -1,6 +1,6 @@
 # Lucas Gulart
 <!--
-🧠 *CEO on Brainless*.
+🧠 *CEO on Gulartech*.
 -->
 [![Instagram Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/tridentinho)](https://instagram.com/tridentinho)
 [![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
@@ -12,7 +12,6 @@
 🎓 Studying Computer Science on URI Santiago. <br>
 💞 Passionate for technology since younger, I love fix problems and create new things. <br>
 <!--I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and i'm learning ReactJS (React Native too, for mobile), and more. 
--->
 ### **Skills** <br>
 🎯 I Know: <br>
 ![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +32,7 @@
 ![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 💬 Other skills: <br>
 ![Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
