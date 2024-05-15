@@ -11,8 +11,6 @@
 🎓 Computer Scientist. <br>
 💞 Passionate for technology since younger, I love fix problems and create new things. <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and i'm learning ReactJS (React Native too, for mobile), and more. 
 ### **Skills** <br>
 🎯 I Know: <br>
@@ -32,6 +30,8 @@
 📚 Studying: <br>
 ![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
 💬 Other skills: <br>
