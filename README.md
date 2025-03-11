@@ -1,45 +1,32 @@
-# Lucas Gulart
-<!--
-🧠 *CEO on Gulartech*.
--->
-[![Instagram Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/tridentinho)](https://instagram.com/tridentinho)
-[![Twitter Badge](https://img.shields.io/badge/-@tridentinho_-dd0606?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tridentinho_)](https://twitter.com/tridentinho_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gulartlucas/)](https://www.linkedin.com/in/gulartlucas/) 
-[![Facebook Badge](https://img.shields.io/badge/-Lucas%20Gulart-dd0606?&style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/tridentinho/)](https://facebook.com/tridentinho/)
+### 👋 Olá, eu sou Lucas Gulart!
 
-🚀 To view business infos visit my Linkedin, link above. <br>
-🎓 Computer Scientist. <br>
-💞 Passionate for technology since younger, I love fix problems and create new things. <br>
+---
 
-<!--I know about Web Development using Javascript, CSS (Bootstrap Framework too), PHP, NodeJS and i'm learning ReactJS (React Native too, for mobile), and more. 
-### **Skills** <br>
-🎯 I Know: <br>
-![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
-![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ExpressJS Badge](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulartlucas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+</p>
 
-📚 Studying: <br>
-![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Sou **Engenheiro de Software Fullstack Sênior**. Minha paixão está em criar soluções que unem tecnologia, produtividade e ciência do comportamento humano. 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-💬 Other skills: <br>
-![Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
-![Excel Badge](	https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-![PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge)
-![Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
--->
-<!--
-**tridentinho/tridentinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 💡 Sobre mim
+
+- 🔬 **Bacharel em Ciência da Computação**
+- 🏢 **Software Engineer em uma das maiores empresas de varejo do Brasil**
+- 📚 **Apaixonado por produtividade, neurociência e tecnologia**
+- 🌍 **Trabalho remoto desde 2020, explorando o equilíbrio entre alta performance e qualidade de vida**
+
+### 🚀 Tecnologias que domino
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"></code>
+
+### 📬 Entre em contato comigo
+
+📩 **E-mail:** [lucas@gulartech.com](mailto:lucas@gulartech.com)  
+💼 **LinkedIn:** [linkedin.com/in/gulartlucas](https://www.linkedin.com/in/gulartlucas/)  
+
+Vamos construir algo incrível juntos! 🚀
