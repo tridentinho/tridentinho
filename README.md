@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tridentinho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="stats.svg" alt="GitHub Stats">
 </p>
 
 Sou **Engenheiro de Software Fullstack Sênior**. Minha paixão está em criar soluções que unem tecnologia, produtividade e ciência do comportamento humano. 🚀

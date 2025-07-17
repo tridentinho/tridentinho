@@ -1,0 +1,32 @@
+name: Atualiza README com stats privados
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # A cada 6 horas
+  workflow_dispatch:       # Permite execução manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona o repositório
+        uses: actions/checkout@v4
+
+      - name: Gera imagem com commits privados
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=tridentinho&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&token=${{ secrets.GH_STATS_TOKEN }}" -o stats.svg
+
+      - name: Atualiza o README
+        run: |
+          # Substitui a imagem no README
+          sed -i '/<img src="https:\/\/github-readme-stats\.vercel\.app\/api.*>/c\<img src="stats.svg" alt="GitHub Stats">' README.md
+
+      - name: Commit e push se mudou
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md stats.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Atualiza stats com dados privados"
+          git push
