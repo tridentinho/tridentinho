@@ -15,7 +15,8 @@ jobs:
 
       - name: Gera imagem com commits privados
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=tridentinho&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars&custom_title=Estat%C3%ADsticas%20GitHub&locale=pt-br&token=${{ secrets.GH_STATS_TOKEN }}" -o stats.svg
+          curl -H "Authorization: token ${{ secrets.GH_STATS_TOKEN }}" -s "https://github-readme-stats.vercel.app/api?username=tridentinho&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars&custom_title=Estat%C3%ADsticas%20GitHub&locale=pt-br" -o stats.svg
+
 
       - name: Atualiza o README
         run: |
