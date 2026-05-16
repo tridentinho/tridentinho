@@ -1,32 +1,12 @@
-### 👋 Olá, eu sou Lucas Gulart!
+## Lucas Gulart
 
----
+Co-founder of Rancho and founder of Gulartech. I build software products and dev tools.
 
-<p align="center">
-  <img src="stats.svg" alt="GitHub Stats">
-</p>
-
-Sou **Engenheiro de Software Fullstack Sênior**. Minha paixão está em criar soluções que unem tecnologia, produtividade e ciência do comportamento humano. 🚀
-
-### 💡 Sobre mim
-
-- 🔬 **Bacharel em Ciência da Computação**
-- 🏢 **Software Engineer em uma das maiores empresas de varejo do Brasil**
-- 📚 **Apaixonado por produtividade, neurociência e tecnologia**
-- 🌍 **Trabalho remoto desde 2020, explorando o equilíbrio entre alta performance e qualidade de vida**
-
-### 🚀 Tecnologias que domino
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"></code>
-
-### 📬 Entre em contato comigo
-
-📩 **E-mail:** [lucas@gulartech.com](mailto:lucas@gulartech.com)  
-💼 **LinkedIn:** [linkedin.com/in/gulartlucas](https://www.linkedin.com/in/gulartlucas/)  
-
-Vamos construir algo incrível juntos! 🚀
+**Building:**
+- **Rancho**: delivery platform with mobile app (iOS/Android), orders API, driver dispatching system and operations dashboard
+- **[Optix](https://github.com/tridentinho/optix)**: MCP server that cuts Claude Code token usage by up to 60% using free GitHub Copilot models
+- **[Claudeeper](https://github.com/tridentinho/claudeeper)**: CLI to see exactly where your Claude Code tokens go per session
+   
+- **Stack:** NestJS · TypeScript · Node.js · Expo/React Native · Next.js · Docker · Redis
+   
+- 📩 lucas@gulartech.com · [linkedin.com/in/gulartlucas](https://linkedin.com/in/gulartlucas)
