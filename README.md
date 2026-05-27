@@ -8,6 +8,6 @@ Co-founder of Rancho and founder of Gulartech. I build software products and dev
 - **[Claudeeper](https://github.com/tridentinho/claudeeper)**: CLI to see exactly where your Claude Code tokens go per session
 - **[AIsubtitler](https://github.com/tridentinho/aisubtitler)**: CLI to translate SRT subtitles using LLMs — supports OpenAI, Claude and Ollama with context-aware chunking and zero dependencies
    
-- **Stack:** NestJS · TypeScript · Node.js · Expo/React Native · Next.js · Python · Docker · Redis
+**Stack:** NestJS · TypeScript · Node.js · Expo/React Native · Next.js · Python · Docker · Redis
    
-- 📩 lucas@gulartech.com · [linkedin.com/in/gulartlucas](https://linkedin.com/in/gulartlucas)
+📩 lucas@gulartech.com · [linkedin.com/in/gulartlucas](https://linkedin.com/in/gulartlucas)
