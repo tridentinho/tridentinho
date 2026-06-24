@@ -10,7 +10,7 @@ Co-founder of [Rancho](https://ranchobr.com) and founder of Gulartech. I build p
 - **[gularzsh](https://github.com/tridentinho/gularzsh)**: portable dotfiles system powered by an external SSD. Plug in and go, any Mac
 
 **Past:**
-- **[Libreary](https://www1.urisantiago.br/multicienciaonline/?daf=artigo&id=107)**: fullstack accessibility platform that converts books into audiobooks and sign language for visually/hearing impaired users. Published in academic journal (2022)
+- **[Libreary](https://www1.urisantiago.br/multicienciaonline/?daf=artigo&id=107)**: fullstack accessibility platform that converts books into audiobooks and sign language for visually/hearing impaired users. Published in Multiciência Online (2024)
 
 **Stack:** NestJS · TypeScript · Node.js · Expo/React Native · Next.js · Python · Docker · Redis
    
